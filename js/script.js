@@ -2,7 +2,7 @@ $(function () {
     $('.slider').slick({
         dots: false,
         draggable: false,
-        prevArrow: '<img src="img/arrow_left.png" alt="arrow left" class="slider-arrow-left">',
+        prevArrow: '<img chirik chirik src="img/arrow_left.png" alt="arrow left" class="slider-arrow-left">',
         nextArrow: '<img src="img/arrow_right.png" alt="arrow right" class="slider-arrow-right">',
         infinite: true,
         slidesToShow: 4,
